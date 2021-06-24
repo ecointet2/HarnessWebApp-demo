@@ -1,7 +1,7 @@
 <?php
 //Working on different version
-$auth_version=1; // app Version (1 or 2)
-$auth_icon="";
-$auth_message=""; // Landing page
+$auth_version=2; // app Version (1 or 2)
+$auth_icon="https://kashishyoga.com/images/girllast.png";
+$auth_message="Yoga in India is powerful!"; // Landing page
 $my_link=""; // your link
 ?>
