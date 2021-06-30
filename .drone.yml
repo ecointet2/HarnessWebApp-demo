@@ -1,4 +1,4 @@
-kind: pipeline
+kind: pipeline2
 name: default
 
 ##Test Phase
